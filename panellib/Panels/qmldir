@@ -1,0 +1,25 @@
+plugin Panels
+BackPanelContentItem 0.1 BackPanelContentItem.qml
+BackPanelDivider 0.1 BackPanelDivider.qml
+BackPanelIconTextItem 0.1 BackPanelIconTextItem.qml
+BackPanelListView 0.1 BackPanelListView.qml
+BackPanelTextToggleItem 0.1 BackPanelTextToggleItem.qml
+BackPanelMessageTextItem 0.1 BackPanelMessageTextItem.qml
+BackPanelGeneric 0.1 BackPanelGeneric.qml
+BackPanelStandard 0.1 BackPanelStandard.qml
+FlipPanel 0.1 FlipPanel.qml
+FrontPanelContentItem 0.1 FrontPanelContentItem.qml
+FrontPanelContentPreviewItem 0.1 FrontPanelContentPreviewItem.qml
+FrontPanelDivider 0.1 FrontPanelDivider.qml
+FrontPanelExpandableContent 0.1 FrontPanelExpandableContent.qml
+FrontPanelGridImageItem 0.1 FrontPanelGridImageItem.qml
+FrontPanelGridView 0.1 FrontPanelGridView.qml
+FrontPanelIconTextItem 0.1 FrontPanelIconTextItem.qml
+FrontPanelListView 0.1 FrontPanelListView.qml
+FrontPanelColumnView 0.1 FrontPanelColumnView.qml
+FrontPanelSubHeader 0.1 FrontPanelSubHeader.qml
+PanelComposition 0.1 PanelComposition.qml
+Panel 0.1 Panel.qml
+SimplePanel 0.1 SimplePanel.qml
+WifiDialog 0.1 WifiDialog.qml
+VolumeDialog 0.1 VolumeDialog.qml

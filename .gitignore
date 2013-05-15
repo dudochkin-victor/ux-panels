@@ -1,0 +1,6 @@
+*~
+Makefile
+libPanels.so
+.moc
+.obj
+meego-ux-panels-*.tar.bz2
